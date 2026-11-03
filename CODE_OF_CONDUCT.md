@@ -24,17 +24,17 @@ Estas reglas no son aspiracionales — son operativas. Se aplican, se miden, y t
 **1. Colaborar &gt; vender.**
 Este no es un espacio de ventas. Antes de publicar, pregúntate: *¿esto aporta valor a la comunidad?*
 
-**2. Humanxs antes que bots.**
+**2. Personas antes que bots.**
 Evitemos compartir textos generados por AI sin contexto o demasiado largos. Queremos leerte a ti, tu experiencia, tu opinión.
 
 **3. Temas relevantes y con intención.**
 Publicaciones y comentarios deben estar relacionados con el propósito del grupo. Si es otro tema, mejor en privado.
 
 **4. Evita repetir contenido o hacer spam.**
-Si ya compartiste algo (evento, link, anuncio), no es necesario volver a publicarlo. Así mantenemos el chat fluido y relevante para todxs.
+Si ya compartiste algo (evento, link, anuncio), no es necesario volver a publicarlo. Así mantenemos el chat fluido y relevante para toda la comunidad.
 
 **5. Cero discursos de odio, sesgos de género o proselitismo político.**
-Recuerda que el foco es tecnología, startups y creatividad. Buscamos un espacio respetuoso, seguro, colaborativo e incluyente para todxs.
+Recuerda que el foco es tecnología, startups y creatividad. Buscamos un espacio respetuoso, seguro, colaborativo e incluyente para todas las personas.
 
 **6. Siempre con una actitud de ayuda.**
 Piensa: *¿cómo puedo aportar valor aquí? ¿cómo puedo ayudar a alguien?* Desde una conexión, una idea, hasta un simple "me interesa".

@@ -101,7 +101,7 @@ dysrupcion/
 El código de conducta define:
 
 - **4 pilares** — nombre real, acceso abierto, fuerza colectiva, sin agendas ocultas
-- **6 reglas de convivencia** — colaborar > vender, humanxs antes que bots, temas relevantes, no spam, cero discursos de odio, actitud de ayuda
+- **6 reglas de convivencia** — colaborar > vender, personas antes que bots, temas relevantes, no spam, cero discursos de odio, actitud de ayuda
 - **Proceso de conflictos** — resolución directa primero, escalado al equipo de moderación cuando hace falta
 - **Consecuencias** — desde advertencia privada hasta expulsión permanente
 - **Contacto** — `dysrupcion@gmail.com` para reportar o consultar
